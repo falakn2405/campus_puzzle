@@ -21,5 +21,5 @@ Professors are sorted once, by a strict three-key priority (least flexible first
 1. Open `class_scheduler.ipynb` in [Google Colab](https://colab.research.google.com).
 2. Run each cell top-to-bottom with **Shift+Enter**.
 3. When prompted (Cell 5), upload your input as an `.xlsx` file (see format below).
-4. Re-run Cell 6 any time you change the input data, add a professor (Cell 9), or add a room (Cell 10).
+4. Re-run Cell 6 any time you change the input data.
 No installation is required — only the Python standard library, `pandas`, and `openpyxl`, all of which are preinstalled in Colab.
